@@ -1,0 +1,15 @@
+{
+  "name": "51-testing-jest",
+  "version": "1.0.0",
+  "description": "aprendiendo jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jesus",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.14.7",
+    "jest": "^27.0.5"
+  }
+}
