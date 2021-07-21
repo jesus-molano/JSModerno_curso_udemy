@@ -8,7 +8,7 @@ body {
 }
 h1, h2, h3 {
     font-family: 'Staatliches', cursive;
-    color: #15B9D5;
+    color: #037a8f;
 }
 h1 {
     font-size: 3.4rem;
@@ -125,6 +125,9 @@ footer .nav a,
     height: 400px;
     color: white;
 }
+.descuento h3{
+    color: #81e5f7;
+}
 .descuento p {
     font-family: 'Staatliches', cursive;
     line-height: .8;
@@ -133,7 +136,7 @@ footer .nav a,
     font-size: 2.4rem;
 }
 .descuento .precio {
-    color: #15B9D5;
+    color: #81e5f7;
     font-size: 3rem;
 }
 
